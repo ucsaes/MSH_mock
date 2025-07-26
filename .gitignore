@@ -1,0 +1,22 @@
+# Node modules
+Mock_client/node_modules/
+Mock_server/node_modules/
+Mock_GPU/node_modules/
+
+# 빌드 결과물
+Mock_client/dist/
+Mock_server/dist/
+Mock_GPU/dist/
+
+# 환경 변수
+Mock_client/.env
+Mock_server/.env
+Mock_GPU/.env
+
+# Vite
+Mock_client/.vite
+
+# 기타
+.DS_Store
+.env
+*.log
